@@ -1,6 +1,5 @@
 # From Fastq to vcf
 
-> Juliana Acosta-Uribe
 Based on pipelines developed by [Khalid Mahmood](https://www.melbournebioinformatics.org.au/tutorials/tutorials/variant_calling_gatk1/variant_calling_gatk1/) for Melbourne Bioinformatics, University of Melbourne (2021),  [Daniel Edward Deatherage](https://wikis.utexas.edu/display/bioiteam/Genome+Variant+Analysis+Course+2022) for the University of Texas (2022), [Mohammed Khalfan](https://learn.gencore.bio.nyu.edu/) for New York University
 
 
